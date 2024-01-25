@@ -9,13 +9,12 @@ This project is a blog web application created using Node.js, Express.js, EJS, H
 
 **3. Post Update/Delete:** Users will be able to edit and delete posts as needed.
 
-# Steps to Run the Web Application:
-
-**1. Initialize Node.js:** Run **npm ini**t to initialize Node.js.
-
-**2. Install Necessary Packages:** Execute **npm install** to install all required packages.
-
-**3. Run the Code:** Start the server by running **nodemon server.js**. Open your web browser and navigate to **localhost:3000** to access the blog website.
+# Setup Instructions
+1. Clone the repository to your local machine.
+2. Install dependencies using npm install.
+3. Ensure MongoDB is running on your system.
+4. Start the application using npm start.
+5. Access the application in your browser at http://localhost:3000.
 
 # Usage Instructions:
 
