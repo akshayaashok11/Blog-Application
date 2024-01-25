@@ -1,5 +1,5 @@
 # Blog-Web-Application
-This is a blog web application created using Node.js, Express.js, EJS, HTML, CSS (Bootstrap Framework), JavaScript.
+This is a blog web application created using Node.js, Express.js, EJS, HTML, CSS (Bootstrap Framework), JavaScript and MongoDB.
 
 The application has the following features:
 
