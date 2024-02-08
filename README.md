@@ -14,7 +14,7 @@ This project is a blog web application created using Node.js, Express.js, EJS, H
 2. Install dependencies using npm install.
 3. Ensure MongoDB is running on your system.
 4. Start the application using npm start.
-5. Access the application in your browser at http://localhost:3000.
+5. Access the application in your browser at http://localhost:8080.
 
 # Usage Instructions:
 
